@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  black: 1
+  white: 1
+  name: MyString
+  ranked: false
+  speed: MyString
+  outcome: MyString
+  black_lost: false
+  white_lost: false
+  annulled: false
+  started: 2020-10-24 16:40:45
+  ended: 2020-10-24 16:40:45
+  historical_ratings: MyText
+
+two:
+  black: 1
+  white: 1
+  name: MyString
+  ranked: false
+  speed: MyString
+  outcome: MyString
+  black_lost: false
+  white_lost: false
+  annulled: false
+  started: 2020-10-24 16:40:45
+  ended: 2020-10-24 16:40:45
+  historical_ratings: MyText

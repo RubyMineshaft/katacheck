@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  professional: false
+  ranking: MyString
+  rating: 1.5
+  country: MyString
+  language: MyString
+  about: MyString
+  supporter: false
+  is_moderator: false
+  is_superuser: false
+  is_tournament_moderator: false
+  is_bot: false
+  timeout_provisional: false
+  bot_ai: 1
+  bot_owner: 1
+  website: MyString
+  icon: MyString
+  registration_date: 2020-10-24 16:17:53
+
+two:
+  username: MyString
+  professional: false
+  ranking: MyString
+  rating: 1.5
+  country: MyString
+  language: MyString
+  about: MyString
+  supporter: false
+  is_moderator: false
+  is_superuser: false
+  is_tournament_moderator: false
+  is_bot: false
+  timeout_provisional: false
+  bot_ai: 1
+  bot_owner: 1
+  website: MyString
+  icon: MyString
+  registration_date: 2020-10-24 16:17:53
